@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "bettermc",
+	"version": "${mod_version}",
+	"name": "BetterMC",
+	"description": "更好的MC - 一堆提升游戏体验的小功能。需要 MaLiLib 作为前置。",
+	"authors": [
+		"BetterMC"
+	],
+	"license": "MIT",
+	"icon": "assets/bettermc/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.bettermc.BetterMC"
+		]
+	},
+	"mixins": [
+		"bettermc.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=${fabric_loader_version}",
+		"minecraft": ">=26.3 <26.4",
+		"malilib": ">=${malilib_version}"
+	}
+}

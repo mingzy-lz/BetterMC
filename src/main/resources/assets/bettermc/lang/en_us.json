@@ -1,0 +1,14 @@
+{
+	"bettermc.gui.title.configs": "BetterMC Configs",
+
+	"bettermc.hotkeys.category.generic": "BetterMC - General",
+	"bettermc.hotkeys.category.toggles": "BetterMC - Feature Toggles",
+
+	"bettermc.config.generic.name.flatMining": "Flat Mining",
+	"bettermc.config.generic.prettyName.flatMining": "Flat Mining",
+	"bettermc.config.generic.comment.flatMining": "When enabled, every block below your feet cannot be mined.\nBlocks at your feet level or higher (sides, above) can still be mined.\nThis is a toggle - you can also bind a hotkey to it.",
+
+	"bettermc.config.hotkey.name.openConfigGui": "Open Config GUI",
+	"bettermc.config.hotkey.prettyName.openConfigGui": "Open Config GUI",
+	"bettermc.config.hotkey.comment.openConfigGui": "Opens the BetterMC configuration screen.\nDefault: O + L"
+}

@@ -1,0 +1,14 @@
+{
+	"bettermc.gui.title.configs": "更好的MC 配置",
+
+	"bettermc.hotkeys.category.generic": "更好的MC - 通用",
+	"bettermc.hotkeys.category.toggles": "更好的MC - 功能开关",
+
+	"bettermc.config.generic.name.flatMining": "平坦挖掘",
+	"bettermc.config.generic.prettyName.flatMining": "平坦挖掘",
+	"bettermc.config.generic.comment.flatMining": "开启后，凡是低于脚部高度的方块都无法破坏；\n与脚同层及更高的方块（侧面、头顶）仍然可以正常挖掘。\n这是一个开关，可以给它绑定快捷键。",
+
+	"bettermc.config.hotkey.name.openConfigGui": "打开配置界面",
+	"bettermc.config.hotkey.prettyName.openConfigGui": "打开配置界面",
+	"bettermc.config.hotkey.comment.openConfigGui": "打开更好的MC配置界面。\n默认：O + L"
+}
